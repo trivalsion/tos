@@ -1,0 +1,14 @@
+build
+toolchain
+.vscode
+
+*.o 
+*.so 
+*.out 
+*.img 
+*.fd 
+*.efi 
+*iso
+ 
+tomatboot/bin
+documentation/documentation.pdf
