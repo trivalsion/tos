@@ -92,6 +92,10 @@
 	* [OS Lectures and Classes](https://ops-class.org/)
 	* [Building a 64bit bootloader](https://github.com/gmarino2048/64bit-os-tutorial)
 	* [Building a x86_64 OS](https://ethv.net/workshops/osdev/notes/notes-0.html)
+	* [Developing 64-bit BIOS OS](https://www.youtube.com/playlist?list=PLxN4E629pPnKKqYsNVXpmCza8l0Jb6l8-)
+	* [Developing 64-bit UEFI OS](https://www.youtube.com/playlist?list=PLxN4E629pPnJxCQCLy7E0SQY_zuumOVyZ)
+	* [Developing UEFI Bootloader](https://www.youtube.com/playlist?list=PLdJN-tAX64g6UnGb1rD1wtnd5U6ebGlWd)
+	* [Developing Basic OS](https://www.youtube.com/playlist?list=PLdJN-tAX64g6EVvcCs0PPc1fznPMagVdq)
 
 * University Courses and lectures
 	* [MIT 6.828 Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/index.htm)
